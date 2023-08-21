@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhushanMalusare
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
 -Email: bhushan.malusare02@gmail.com
 
