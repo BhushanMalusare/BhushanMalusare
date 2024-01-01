@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BhushanMalusare
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine learning 
+- 👀 I’m interested in Data Science, machine learning and computer vision 
+- 🌱 I am looking for opportunities as data science and machine learning fresher/intern 
 - 📫 How to reach me..
 - 
--Email: bhushan.malusare02@gmail.com
+-Email: bhushan.malusareda@gmail.com
 
 <!---
 BhushanMalusare/BhushanMalusare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
