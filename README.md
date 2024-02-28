@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, machine learning and computer vision 
 - 🌱 I am looking for opportunities as data science and machine learning fresher/intern 
 - 📫 How to reach me..
-- 
+
 -Email: bhushan.malusareda@gmail.com
 
 <!---
