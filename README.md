@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhushanMalusare
 - 👀 I’m interested in Data Science, machine learning and computer vision 
-- 🌱 I am looking for opportunities as data science and machine learning fresher 
+- 🌱 I am looking for opportunities as data science and machine learning
 - 📫 How to reach me..
 
 -Email: bhushan.malusareda@gmail.com
